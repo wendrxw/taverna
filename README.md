@@ -1,7 +1,3 @@
-Aqui vai um **README.md completo e organizado** para o seu projeto (com foco em FastAPI + Haskell engine + WebSocket + combat system estilo Foundry/Roll20 leve).
-
----
-
 ```md
 # 🎲 Taverna RPG Engine
 
