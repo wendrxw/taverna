@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --wood: #2b1d12;
+  --wood-dark: #1a120b;
+  --parchment: #f2e4c7;
+  --ink: #2b1b0e;
+  --gold: #c9a227;
+}
+
+body {
+  @apply min-h-screen text-[#f2e4c7];
+  background: radial-gradient(circle at center, #2b1d12, #0f0a06);
+  font-family: "Cinzel", serif;
+}
